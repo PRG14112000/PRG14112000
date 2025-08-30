@@ -1,18 +1,30 @@
 # 💫 Hi 👋, I'm Pratik Gupta
-**A passionate Software Engineer || DevOps Engineer || Kafka Admin from India**
+*A passionate Software Engineer || Java Developer || Spring Boot || Microservices || DevOps Enthusiast*
 
-Email Me 👉 ✉️ **pratikgupta.prof.main@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ *pratikgupta.prof.main@gmail.com* For collaboration, projects, or tech discussions! 😊😊
 
-- 🔭 **I’m currently working on:** Capstone Project
-- 🌱 **I’m currently learning:** Apache Kafka
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Pratik
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 *I’m currently working on:* Scalable Java-based microservices & REST APIs
+- 🌱 *I’m currently learning:* Apache Kafka, advanced Spring Boot, cloud-native DevOps
+- 👯 *I’m looking to collaborate on:* Spring Boot microservices, backend development, distributed systems
+- 🤔 *I’m looking for help with:* Optimizing Large-scale data pipelines & advanced Kafka configurations
+- 💬 *Ask me about:* Java, Spring Boot, REST APIs, Microservices, Spring Batch, Secure App Dev
+- 📫 *How to reach me:* pratikgupta.prof.main@gmail.com
+- 😄 *Pronouns:* He/Him
+- ⚡ *Fun fact:* I build APIs faster than my coffee gets cold!☕
 
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+## 🔗 I am a Software Engineer. 😊😊
+
+Stay updated with the latest projects by following GitHub and following on Instagram, Facebook and Twitter.
+
+[![Pratik YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](Coming Soon) [![Pratik Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://instagram.com/the_emerging_gupta) [![Pratik Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://facebook.com/pratik.gupta.969300) [![Pratik Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://x.com/PRG14112000)
+
+[![](https://visitcount.itsvg.in/api?id=PRG14112000&icon=1&color=4)](https://visitcount.itsvg.in)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Snake Game Repo View -->
 
