@@ -42,7 +42,15 @@ Stay updated with the latest projects by following GitHub and following on Insta
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PRG14112000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PRG14112000&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=PRG14112000&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
