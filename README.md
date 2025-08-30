@@ -42,8 +42,9 @@ Stay updated with the latest projects by following GitHub and following on Insta
 
 ## 🏅 Certifications & Achievements
 
-[![Microsoft AI & Cloud Fundamentals](https://img.shields.io/badge/Microsoft%20AI%20&%20Cloud%20Fundamentals-0078D4?logo=microsoft&logoColor=white)](#)
-[![Oracle Certified Java SE 8 Programmer](https://img.shields.io/badge/Oracle%20Java%20SE%208%20Programmer-F80000?logo=oracle&logoColor=white)](#)
+[![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals%20(AZ--900)-0078D4?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+[![Microsoft AI-900](https://img.shields.io/badge/Microsoft%20AI%20Fundamentals%20(AI--900)-0078D4?logo=azure-ai&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
+[![Oracle Certified Java SE 8 Programmer I (IZ0-808)](https://img.shields.io/badge/Oracle%20Java%20SE%208%20Programmer%20I%20(IZ0--808)-F80000?logo=oracle&logoColor=white)](https://education.oracle.com/java-se-8-programmer-i/pexam_1Z0-808)
 [![Virtusa IntelliOps Hackathon - 1st Runner-Up](https://img.shields.io/badge/Virtusa%20IntelliOps-1st%20Runner--Up-success)](#)
 [![Jatayu Explorer Award](https://img.shields.io/badge/Jatayu%20Season%20II-Explorer%20Award-blue)](#)
 
