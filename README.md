@@ -16,7 +16,7 @@ Email Me 👉 ✉️ *pratikgupta.prof.main@gmail.com* For collaboration, projec
 
 Stay updated with the latest projects by following GitHub and following on Instagram, Facebook and Twitter.
 
-[![Pratik YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](Coming Soon) [![Pratik Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://instagram.com/the_emerging_gupta) [![Pratik Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://facebook.com/pratik.gupta.969300) [![Pratik Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://x.com/PRG14112000)
+[![Pratik YouTube Channel](https://img.shields.io/badge/YouTube-Pratik%20Gupta-red?logo=youtube&logoColor=white)](Coming Soon) [![Pratik Instagram](https://img.shields.io/badge/Instagram-Pratik%20Gupta-pink?logo=instagram&logoColor=white)](https://instagram.com/the_emerging_gupta) [![Pratik Facebook](https://img.shields.io/badge/Facebook-Pratik%20Gupta-blue?logo=facebook&logoColor=white)](https://facebook.com/pratik.gupta.969300) [![Pratik Twitter](https://img.shields.io/badge/Twitter-Pratik%20Gupta-lightblue?logo=twitter&logoColor=white)](https://x.com/PRG14112000)
 
 [![](https://visitcount.itsvg.in/api?id=PRG14112000&icon=1&color=4)](https://visitcount.itsvg.in)
 
