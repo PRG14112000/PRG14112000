@@ -39,6 +39,12 @@ Stay updated with the latest projects by following GitHub and following on Insta
 ![](https://nirzak-streak-stats.vercel.app/?user=PRG14112000&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRG14112000&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PRG14112000&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PRG14112000&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRG14112000&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
