@@ -53,5 +53,36 @@ Stay updated with the latest projects by following GitHub and following on Insta
 ---
 [![](https://visitcount.itsvg.in/api?id=PRG14112000&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🏅 Certifications & Achievements
+
+[![Microsoft AI & Cloud Fundamentals](https://img.shields.io/badge/Microsoft%20AI%20&%20Cloud%20Fundamentals-0078D4?logo=microsoft&logoColor=white)](#)
+[![Oracle Certified Java SE 8 Programmer](https://img.shields.io/badge/Oracle%20Java%20SE%208%20Programmer-F80000?logo=oracle&logoColor=white)](#)
+[![Virtusa IntelliOps Hackathon - 1st Runner-Up](https://img.shields.io/badge/Virtusa%20IntelliOps-1st%20Runner--Up-success)](#)
+[![Jatayu Explorer Award](https://img.shields.io/badge/Jatayu%20Season%20II-Explorer%20Award-blue)](#)
+
+> Add certificate URLs above if you want them clickable.
+
+---
+
+### Badges
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
