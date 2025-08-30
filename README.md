@@ -42,7 +42,7 @@ Stay updated with the latest projects by following GitHub and following on Insta
 
 ## 🏅 Certifications & Achievements
 
-[![Microsoft Cloud Fundamentals](https://learn.microsoft.com/en-us/users/pratikgupta-4305/credentials/b616a107a70b01a1?ref=https%3A%2F%2Fwww.linkedin.com%2F)](#)
+[![[Microsoft Cloud Fundamentals](https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals)](https://learn.microsoft.com/en-us/users/pratikgupta-4305/credentials/b616a107a70b01a1?ref=https%3A%2F%2Fwww.linkedin.com%2F)](#)
 [![Microsoft AI Fundamentals](https://learn.microsoft.com/en-us/users/pratikgupta-0033/credentials/ca736a192fef17e2?ref=https%3A%2F%2Fwww.linkedin.com%2F)](#)
 [![Oracle Certified Java SE 8 Programmer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1D8FA33A372CEE2411B993A119A5C1DC2E249141B52C928B172FF921CC4F60FB)](#)
 [![Virtusa IntelliOps Hackathon - 1st Runner-Up](https://img.shields.io/badge/Virtusa%20IntelliOps-1st%20Runner--Up-success)](#)
