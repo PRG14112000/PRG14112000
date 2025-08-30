@@ -40,6 +40,16 @@ Stay updated with the latest projects by following GitHub and following on Insta
 ![](https://nirzak-streak-stats.vercel.app/?user=PRG14112000&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRG14112000&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏅 Certifications & Achievements
+
+[![Microsoft AI & Cloud Fundamentals](https://img.shields.io/badge/Microsoft%20AI%20&%20Cloud%20Fundamentals-0078D4?logo=microsoft&logoColor=white)](#)
+[![Oracle Certified Java SE 8 Programmer](https://img.shields.io/badge/Oracle%20Java%20SE%208%20Programmer-F80000?logo=oracle&logoColor=white)](#)
+[![Virtusa IntelliOps Hackathon - 1st Runner-Up](https://img.shields.io/badge/Virtusa%20IntelliOps-1st%20Runner--Up-success)](#)
+[![Jatayu Explorer Award](https://img.shields.io/badge/Jatayu%20Season%20II-Explorer%20Award-blue)](#)
+
+
+---
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -52,17 +62,6 @@ Stay updated with the latest projects by following GitHub and following on Insta
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PRG14112000&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏅 Certifications & Achievements
-
-[![Microsoft AI & Cloud Fundamentals](https://img.shields.io/badge/Microsoft%20AI%20&%20Cloud%20Fundamentals-0078D4?logo=microsoft&logoColor=white)](#)
-[![Oracle Certified Java SE 8 Programmer](https://img.shields.io/badge/Oracle%20Java%20SE%208%20Programmer-F80000?logo=oracle&logoColor=white)](#)
-[![Virtusa IntelliOps Hackathon - 1st Runner-Up](https://img.shields.io/badge/Virtusa%20IntelliOps-1st%20Runner--Up-success)](#)
-[![Jatayu Explorer Award](https://img.shields.io/badge/Jatayu%20Season%20II-Explorer%20Award-blue)](#)
-
-> Add certificate URLs above if you want them clickable.
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
