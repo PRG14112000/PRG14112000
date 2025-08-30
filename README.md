@@ -20,11 +20,6 @@ Stay updated with the latest projects by following GitHub and following on Insta
 
 [![](https://visitcount.itsvg.in/api?id=PRG14112000&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 <!-- Snake Game Repo View -->
 
